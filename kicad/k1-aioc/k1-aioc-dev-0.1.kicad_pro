@@ -486,7 +486,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "k1-aioc.kicad_pro",
+    "filename": "k1-aioc-dev-0.1.kicad_pro",
     "version": 3
   },
   "net_settings": {
