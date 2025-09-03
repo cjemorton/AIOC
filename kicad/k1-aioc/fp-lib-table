@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "AIOC")(type "KiCad")(uri "${KIPRJMOD}/../library/aioc.pretty")(options "")(descr ""))
   (lib (name "C144168")(type "KiCad")(uri "C:/KiCadParts/C144168.pretty")(options "")(descr ""))
+  (lib (name "C965804")(type "KiCad")(uri "C:/KiCadParts/C965804.pretty")(options "")(descr ""))
 )
