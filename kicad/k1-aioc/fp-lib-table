@@ -1,3 +1,5 @@
 (fp_lib_table
+  (version 7)
   (lib (name "AIOC")(type "KiCad")(uri "${KIPRJMOD}/../library/aioc.pretty")(options "")(descr ""))
+  (lib (name "C144168")(type "KiCad")(uri "C:/KiCadParts/C144168.pretty")(options "")(descr ""))
 )
